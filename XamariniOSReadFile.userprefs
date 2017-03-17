@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{1E1E8014-CE07-4CA7-8622-0A6EB1226FE9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="XamariniOSReadFile/ViewController.cs">
+    <Files>
+      <File FileName="XamariniOSReadFile/ViewController.cs" Line="54" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.XamariniOSReadFile PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.53785F66-4F6E-4445-B0E6-E3856D84F8B8" />
+</Properties>

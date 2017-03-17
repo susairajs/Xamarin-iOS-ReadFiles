@@ -1,0 +1,9 @@
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/optimized/
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/bin/iPhoneSimulator/Debug/XamariniOSReadFile.exe.mdb
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/bin/iPhoneSimulator/Debug/XamariniOSReadFile.exe
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/XamariniOSReadFile.exe
+/Users/DELPIN/Projects/XamariniOSReadFile/XamariniOSReadFile/obj/iPhoneSimulator/Debug/XamariniOSReadFile.exe.mdb
